@@ -8,6 +8,10 @@ a {
   color: #000000;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
 }
