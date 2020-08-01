@@ -3,7 +3,7 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
 
-
+console.log('this is firebase utils');
 const config = {
     apiKey: "AIzaSyDhRFnTJfWpkalMo5z2kordMx8N4nepu8A",
     authDomain: "crown-db-a7743.firebaseapp.com",
